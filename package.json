@@ -1,0 +1,26 @@
+{
+  "name": "nodespider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rootwish/nodespider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rootwish/nodespider/issues"
+  },
+  "homepage": "https://github.com/rootwish/nodespider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "iconv-lite": "^0.4.23"
+  }
+}
